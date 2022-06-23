@@ -6,6 +6,7 @@ import MyBadge from './components/MyBadge';
 import SingleBook from './components/SingleBookComponent';
 import HorrorBooks from './data/horror.json'
 import BookList from './components/BookList';
+import CommentArea from './components/CommentArea';
 
 function App() {
   return (
